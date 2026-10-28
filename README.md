@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PostcardMania is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://postcardmania.com/
+PostcardMania provides direct mail advertising services, offering businesses the ability to design, print, and mail postcards, flyers, and other marketing materials at scale. Through its Direct Mail API, developers can automate postcard creation and mailing, integrating with CRM and marketing platforms. The company serves small to large enterprises across various industries, emphasizing cost‑effective, targeted outreach.
+
+**Areas:** DirectMail · Marketing · API · Automation · SmallBusiness
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://postcardmania.com/)
+- [Documentation](https://www.pcmintegrations.com/direct-mail-api/)
+- [API reference](https://www.pcmintegrations.com/direct-mail-api/)
+- [Pricing](https://www.postcardmania.com/price/)
+- [Support](https://www.pcmintegrations.com/contact-us/)
+- [Blog](https://www.postcardmania.com/blog/)
+- [Compliance](https://trust.postcardmania.com/)
+- [Privacy policy](https://www.postcardmania.com/privacy-policy/)
+- [GitHub](https://github.com/postcardmania)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/postcardmania/](https://apis.io/providers/postcardmania/).
